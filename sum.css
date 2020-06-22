@@ -1,0 +1,14 @@
+h1{
+    font-size:40px;
+    color:red;
+}
+
+#sum-button {
+    display: block;
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #232323;
+    color:blue;
+  }
